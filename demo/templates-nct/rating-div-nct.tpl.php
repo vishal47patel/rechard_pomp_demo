@@ -1,0 +1,1 @@
+<div class="rating-div text-right">%RATING_CONTENT%</div>

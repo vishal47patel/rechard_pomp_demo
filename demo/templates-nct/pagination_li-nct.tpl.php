@@ -1,0 +1,1 @@
+<li class="page-item %LI_CLASS%"><a href="javascript:void(0);" data-page="%DATA_PAGE%" class="page-link %LI_A_CLASS%" title="%DISP_TEXT%"><span>%DISP_TEXT%</span></a></li>

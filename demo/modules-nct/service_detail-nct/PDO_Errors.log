@@ -1,0 +1,1 @@
+2021-09-10 05:09:24 :: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'amount' cannot be null: 521

@@ -1,0 +1,18 @@
+.datepicker {    
+    z-index: 1600 !important;
+}
+.pico-content {
+	display: none !important;
+}
+.pico-overlay {
+	display: none !important;
+}
+.fc-unthemed td.fc-day{
+  background-color: lightgreen !important;
+}
+/*.fc-unthemed td.fc-past{
+	background-color: #a9b1a9 !important;
+}*/
+.msg-chat-scroll {
+    max-height: 300px;
+}

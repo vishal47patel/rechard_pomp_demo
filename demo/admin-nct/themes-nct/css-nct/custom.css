@@ -1,0 +1,86 @@
+/* here you can put your own css to customize and override the theme */
+
+.languageDiv{
+    margin:10px 0px;
+    display: inline-block;
+    width: 100%;;
+}
+.padding030{
+        padding: 0px 30px;
+}
+.padding0{
+    padding: 0px;
+}
+.colorRed{
+    color: red;
+}
+i.colorRed {
+    font-size:large;
+}
+.dottedBorder{
+    border: 1.5px dotted;
+    border-color: #707070;
+    padding-top: 5px;
+    margin-bottom: 10px;
+}
+.cross{
+    margin-left: -7px;
+    margin-top: -8px;
+}
+.mrg-top7{
+    margin-top: 7px;
+}
+.custom-header {
+    text-align: center;
+    padding: 3px;
+    background: #0f4e74;
+    color: #fff;
+}
+.mrg-btm{
+    margin-bottom: 10px;
+}
+.pointer{
+    cursor: pointer;
+}
+.tab-content.home-tab{
+border-left: 0px !important;
+padding: 0 !important;
+margin-left: 0 !important;
+}
+
+.feeds .col1 {
+    float: left;
+    width: 80%;
+    clear: both;
+}
+.feeds .col2 {
+    float: left;
+    width: 20%;
+    float: right;
+}
+.loading-bar {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.portlet.box > .portlet-title > .tools {
+    margin-bottom: 6px;
+    margin-top: 0px;
+}
+.completed-details{
+    width: 170px !important;
+}
+.font-20{
+    font-size: 20px !important;
+}
+body{
+    overflow-x: hidden;
+}
+hr.nospace{
+    margin: 5px 0px !important;
+}
+/*
+.cropper-container.cropper-bg{
+    height: 70% !important;
+    width:  70% !important;
+}*/

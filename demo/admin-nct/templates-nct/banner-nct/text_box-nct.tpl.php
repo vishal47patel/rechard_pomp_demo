@@ -1,0 +1,1 @@
+<input type="text" class="form-control logintextbox-bg required %TYPEVALUE%" name="%TYPEVALUE%[%ID%]" id="%TYPEVALUE%[%ID%]" value="%CONSTANT_VALUE%" />

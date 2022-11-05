@@ -1,0 +1,10 @@
+2022-07-20 10:07:14 :: SQLSTATE[HY000]: General error: 1364 Field 'service_date' doesn't have a default value: 521
+2022-07-20 12:07:08 :: SQLSTATE[HY000]: General error: 1364 Field 'service_date' doesn't have a default value: 521
+2022-07-20 12:07:15 :: SQLSTATE[HY000]: General error: 1364 Field 'service_date' doesn't have a default value: 521
+2022-07-20 03:07:34 :: SQLSTATE[HY000]: General error: 1364 Field 'service_date' doesn't have a default value: 521
+2022-07-20 04:07:57 :: SQLSTATE[HY000]: General error: 1364 Field 'service_date' doesn't have a default value: 521
+2022-07-29 12:07:25 :: SQLSTATE[HY000]: General error: 1364 Field 'service_date' doesn't have a default value: 521
+2022-07-29 01:07:19 :: SQLSTATE[HY000]: General error: 1364 Field 'service_date' doesn't have a default value: 521
+2022-07-29 01:07:51 :: SQLSTATE[HY000]: General error: 1364 Field 'service_date' doesn't have a default value: 521
+2022-07-29 02:07:05 :: SQLSTATE[HY000]: General error: 1364 Field 'service_date' doesn't have a default value: 521
+2022-07-29 02:07:23 :: SQLSTATE[HY000]: General error: 1364 Field 'service_date' doesn't have a default value: 521

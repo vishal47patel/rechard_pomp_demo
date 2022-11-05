@@ -1,0 +1,68 @@
+
+<html>
+<head>
+    
+    <script type="text/javascript" src="js/techdemo_example/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="webphone_api.js?jscodeversion=510"></script>
+
+    <script>
+      // IMPORTANT: Wait until the webphone is loaded, before calling any API functions
+      webphone_api.onAppStateChange(function (state) {
+      if (state === 'loaded') {
+
+            //set parameters (alternatively these can be also preset in your html)
+            webphone_api.setparameter('serveraddress', "voip.mizu-voip.com"); // Replace the word in uppercase with your SIP server IP or domain name (add also the :port number if not using the standard UDP 5060)
+            webphone_api.setparameter('username', "pinal"); // Replace the word in uppercase with a valid SIP extension username
+            webphone_api.setparameter('password', "mizutechpwd@12"); // Replace the word in uppercase with the password for the above user
+            //see the �Parameters� section in the documentation for more options
+
+            //start the webphone (optional but recommended)
+            webphone_api.start();
+            //make a call (usually initiated by user action, such as click on a click to call button)
+           // webphone_api.call(number);
+            //hangup
+           // webphone_api.hangup();
+            //send instant message
+            
+      }
+      });
+      
+      function SendChat1()
+{
+    
+    webphone_api.sendchat("grishma", "msg3");
+}
+      </script>
+</head>
+<body style="font-family: Verdana ; font-size: 12px; color:#2e3d47;" spellcheck="false">
+<div style="font-family: Verdana; font-size: 16px; color:#4eaaec; text-align:center; margin-top:10px">Tech demo</div><br><br>
+<!--<div id="header">&nbsp;</div>-->
+<div id="content">
+    
+    <div id="left_column">
+        <div id="registration_box">
+            
+            <div id="chat_box" >
+                
+                <div id="send_container">
+                    <input type="text" placeholder="Compose" id="message" value="" title="Enter the chat to be sent" autocapitalize="off" />&nbsp;
+                    <button class="btn" onclick="SendChat1()" title="Send chat message">Send</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="right_column" style="display: none;">
+        <h1>Other settings</h1>
+        <div id="settings_list">
+        </div>
+        <div id="save_settings" class="btn_container">
+            <div id="adv_text">There are <a href="https://www.mizu-voip.com/Portals/0/Files/Webphone_Documentation.pdf" target="_blank" title="Documentation">many more</a> configurations which can be set from "webphone_config.js"
+            </div>
+            <button class="btn" id="btn_save_settings" onclick="SaveSettings();" title="Save settings">Save</button>&nbsp;&nbsp;
+        </div>
+    </div>
+    <div id="video_container" style="display: none;"></div>
+</div>
+<iframe allow="microphone; camera" style="display:none" height="0" width="0" id="loader"></iframe>
+</body>
+</html>

@@ -1,0 +1,2 @@
+2022-10-12 06:10:35 :: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'autoserv_dbnm.mobile_app' doesn't exist: 348
+2022-10-12 06:10:08 :: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'autoserv_dbnm.mobile_app' doesn't exist: 348

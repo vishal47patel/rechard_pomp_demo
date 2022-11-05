@@ -1,0 +1,1 @@
+<a href="%DOWNLOAD_URL%" title="" %EXTRA% class="%CLASS_IMG%">%CONTENT_LINK%</a>

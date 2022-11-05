@@ -1,0 +1,1 @@
+<a href="javascript:void(0)" data-userId="%USER_ID%" class="inbox-right icon-trash msg-delete deleteChat"></a>

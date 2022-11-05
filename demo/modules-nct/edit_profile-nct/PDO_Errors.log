@@ -1,0 +1,5 @@
+2022-07-20 11:07:08 :: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'vehicle_type' at row 1: 693
+2022-07-20 11:07:33 :: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'vehicle_type' at row 1: 693
+2022-07-20 11:07:49 :: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'vehicle_type' at row 1: 693
+2022-07-21 04:07:43 :: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'addLat' at row 1: 693
+2022-07-21 05:07:04 :: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'addLat' at row 1: 693

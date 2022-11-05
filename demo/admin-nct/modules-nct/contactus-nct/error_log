@@ -1,0 +1,4 @@
+[05-Nov-2020 09:59:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Nov-2020 15:32:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function sendEmailAddress() in /home/tickettraderncry/public_html/admin-nct/modules-nct/contactus-nct/index.php on line 47
+[05-Nov-2020 15:34:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function sendEmailAddress() in /home/tickettraderncry/public_html/admin-nct/modules-nct/contactus-nct/index.php on line 47
+[05-Nov-2020 15:35:08 Asia/Kolkata] PHP Fatal error:  Call to undefined function sendEmailAddress() in /home/tickettraderncry/public_html/admin-nct/modules-nct/contactus-nct/index.php on line 47

@@ -1,0 +1,57 @@
+
+
+-----------------------------------------------------------------------------------
+
+2018-05-07 13:32:41
+
+-----------------------------------------------------------------------------------
+
+<table border="0" cellpadding="0" cellspacing="0" style="background-color:#FFFFFF; margin:0 auto 0; width:550px">
+    <tbody>
+        <tr>
+            <td>
+                <table border="0" cellpadding="0" cellspacing="0" style="background-color:#444444; padding:10px; width:100%">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div class="logo" style="font-size:40px; color:#fff; float:left;"><a class="navbar-brand" href="http://localhost/sharecaar/" title="ShareCaar"><img alt="ShareCaar" src="http://localhost/sharecaar/themes-nct/images-nct/8417309901519105370.png" style="width: 100px;" /> </a></div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>&nbsp;</div>
+
+                <div style="color: #444444; font-size: 22px; padding-left: 10px;"><strong>Thank you for registration!</strong></div>
+
+                <div style="font-size:15px; color:#595959;float:left; width:98%; line-height:20px; padding-left: 10px;">
+                    <div>&nbsp;</div>
+
+                    <p>Hello There!,</p>
+
+                    <p>This message serves as confirmation that your account has been successfully created.</p>
+
+                    <p><a href="http://localhost/sharecaar/activate-account/13b664a4cf303116b343492ef0429474">Activate Now</a></p>
+
+                    <div>&nbsp;</div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table border="0" cellpadding="0" cellspacing="0" style="background-color:#222222; padding:10px; width:100%">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div style="font-size:15px; color:#fff; float:left; padding:8px 15px;">Copyright &copy; 2018 ShareCaar, All Rights Reserved.</div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>

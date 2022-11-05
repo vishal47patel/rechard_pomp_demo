@@ -1,0 +1,68 @@
+<div class="col-xl-8 offset-xl-2 offset-lg-1 col-lg-10 reg-main">
+	<div class="service-detail-page">
+		<div class="row">
+			<div class="col-md-6">
+				<div class="service-detail-photo">
+					<i class="icon %SERVICE_ICON%"></i>
+					%SERVICE_STATUS%
+				</div>
+			</div>
+			<div class="col-md-6">
+				<table class="booked-service-table">
+					<tr>
+						<td>
+							{SERVICE_TYPE}
+						</td>
+						<td>
+							<h3 class="m-0">%SERVICE_TEXT%</h3>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							{BOOKING_DATE}
+						</td>
+						<td>
+							<span class="color-black">%BOOKING_DATE%</span>
+						</td>
+					</tr>
+					%CONTENT%
+					<tr>
+						<td>
+							{MESSAGE}
+						</td>
+						<td>
+							<span class="color-black">
+								%MESSAGE%
+							</span>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							{LOCATION} dsaf dasf sad dfss dfadsf
+						</td>
+						<td>
+							<span class="color-black">
+								%ADDRESS%
+							</span>
+						</td>
+					</tr>
+				</table>
+				%USER_DETAILS%
+			</div>
+		</div>
+		<div id='map' class='map' style='width:100%; height:100vh'></div>
+		<input type="hidden" id="addLat" value="%ADD_LAT%" />
+		<input type="hidden" id="addLong" value="%ADD_LONG%" />
+		<div class="row">
+			<div class="text-center col-md-12">
+				%START_SERVICE_SECTION%				
+				%CANCEL_SERVICE_SECTION%
+				%COMPLETE_SERVICE_SECTION%
+			</div>
+		</div>
+		%BOOKING_AMT_SECTION%
+		%ADD_AMOUNT_SECTION%
+		%PAYMENT_METHOD_SECTION%
+		%ADD_REVIEW_SECTION%
+	</div>
+</div>

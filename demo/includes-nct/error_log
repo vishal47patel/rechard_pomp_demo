@@ -1,0 +1,7 @@
+[24-May-2021 19:23:04 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 9600 bytes) in /home/asgncryptedproje/public_html/includes-nct/crop.php on line 97
+[24-May-2021 19:31:11 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/asgncryptedproje/public_html/includes-nct/crop.php on line 91
+[24-May-2021 19:31:11 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 9600 bytes) in /home/asgncryptedproje/public_html/includes-nct/crop.php on line 98
+[24-May-2021 19:32:07 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2400 bytes) in /home/asgncryptedproje/public_html/includes-nct/crop.php on line 99
+[24-May-2021 19:34:14 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/asgncryptedproje/public_html/includes-nct/crop.php on line 91
+[24-May-2021 19:34:14 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2400 bytes) in /home/asgncryptedproje/public_html/includes-nct/crop.php on line 98
+[24-May-2021 19:36:08 Asia/Kolkata] PHP Warning:  ini_set() has been disabled for security reasons in /home/asgncryptedproje/public_html/includes-nct/crop.php on line 91
